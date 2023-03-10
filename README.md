@@ -3,6 +3,7 @@
 3.  Para utilizar el programa, primero debes asegurarte de tener instalado Node.js. Después, ejecuta "npm i" en la raíz del reto para instalar las dependencias y luego "npm run dev" para ejecutarlo.
 4.  La parte gráfica del programa se encuentra en la carpeta "components" y "app".
 5.  En la carpeta "utils" se encuentra el archivo "tabler.ts", donde se encuentran todas las funciones relacionadas con el tablero.
+6. Cuando veas el tablero hay un input para agregar el tamanio de las filas y se generara un tablero aleatorio, que peude o no cumplir porque le puse limitaciones.
 
 ### Funciones
 
