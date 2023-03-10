@@ -1,0 +1,8 @@
+.tablero {
+  display: grid;
+  max-width: 500px;
+  max-height: 500px;
+  gap: 1px;
+  background: rgb(255, 254, 254);
+  margin: auto;
+}
